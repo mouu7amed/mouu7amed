@@ -6,7 +6,7 @@
 - ⚡ Core stack: **TypeScript · React · Next.js · Node.js · PostgreSQL · GraphQL**
 - 🚀 Recent wins: cut TTFB 40%+ with Next.js server components & streaming, reduced API response times up to 60%, built design systems that halved UI build time
 - 📍 Cairo, Egypt · open to remote roles worldwide
-- 📫 Reach me: [mouu7amed@gmail.com](mailto:mouu7amed@gmail.com) · [LinkedIn](https://linkedin.com/in/moe-hassanein)
+- 📫 Reach me: [mouu7amed@gmail.com](mailto:mouu7amed@gmail.com) · [LinkedIn](https://linkedin.com/in/mouu7amed)
 
 ## 🛠 Tech I work with
 
