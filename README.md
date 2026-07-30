@@ -17,8 +17,3 @@
 **Data & Infra:** PostgreSQL, MySQL, MongoDB, Firebase, Docker, Vercel, CI/CD
 
 **AI & Integrations:** OpenAI API, VAPI (Voice AI), Airtable, Lark, Meta/Reddit Pixel
-
-## 📊 GitHub Stats
-
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mouu7amed&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mouu7amed&layout=compact&hide_border=true)
