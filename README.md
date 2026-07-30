@@ -18,17 +18,6 @@
 
 **AI & Integrations:** OpenAI API, VAPI (Voice AI), Airtable, Lark, Meta/Reddit Pixel
 
-## 📌 Featured work
-
-| Project | What it shows |
-|---|---|
-| [project-name-1](#) | Multi-tenant SaaS architecture — Node.js, GraphQL, Hasura, RLS |
-| [project-name-2](#) | AI voice agent demo — OpenAI + VAPI real-time streaming |
-| [project-name-3](#) | Production-grade Next.js app — RSC, streaming, Core Web Vitals |
-| [project-name-4](#) | Reusable component library — TypeScript, Tailwind, Radix UI |
-
-<!-- Replace the # links above with your real pinned repos once created -->
-
 ## 📊 GitHub Stats
 
 ![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mouu7amed&show_icons=true&theme=default&hide_border=true)
