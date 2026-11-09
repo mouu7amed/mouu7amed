@@ -1,4 +1,4 @@
-# Hi, I'm Mohammed Azzab 👋
+# Hi, I'm Mohamed Azab 👋
 
 **Senior Software Engineer** — I design and ship production systems across AI, SaaS, and B2B. Currently building voice-AI hiring infrastructure at **Hivemind AI**.
 
